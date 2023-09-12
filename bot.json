@@ -1,0 +1,38 @@
+[
+  {
+    "response_type": "greeting",
+    "user_input": [],
+    "bot_response": "lol",
+    "required_words": []
+  },
+  {
+    "response_type": "greeting",
+    "user_input": [],
+    "bot_response":"lol",
+    "required_words": []
+  },
+  {
+    "response_type": "greeting",
+    "user_input": ["nice", "to", "meet", "you"],
+    "bot_response": "The pleasure is all mine!",
+    "required_words": ["nice", "meet", "you"]
+  },
+  {
+    "response_type": "question",
+    "user_input": [],
+    "bot_response": "lol",
+    "required_words": ["learn", "code"]
+  },
+  {
+    "response_type": "question",
+    "user_input": [],
+    "bot_response": "lol",
+    "required_words": ["refund", "i"]
+  },
+  {
+    "response_type": "question",
+    "user_input": [],
+    "bot_response": "lol",
+    "required_words": ["how", "are", "you"]
+  }
+]
